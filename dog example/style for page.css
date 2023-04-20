@@ -1,0 +1,18 @@
+*{margin: 10px; padding: 5px;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   }
+   body{background-image: url(./imagenes/fondo-mancha-acuarela-color-pastel_52683-12283.avif); background-repeat: no-repeat; background-size: cover}
+p{color: darkred;background-color: darksalmon;}
+h2{font-weight: 500;font-style: italic;text-shadow: 0cqb ;color: blueviolet;}
+h3{font-weight: 400;font-style: normal;color: darkmagenta;}
+h4{font-size: larger;font-style: oblique;color: olive;}
+table, tr, th,td{
+   border-color: black;
+   border-style: solid;
+   border-spacing: 0;
+   border-radius: 2px ;
+}
+th{
+   background-color: aquamarine;
+}
+img{border-color: black; border-style: dotted; border border-spacing:5px ;border radious: 5px}
+#par {color: tomato;background-color: aquamarine;}
